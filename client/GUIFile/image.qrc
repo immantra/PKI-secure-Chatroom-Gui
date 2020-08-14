@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image.qrc</file>
+    <file>register.png</file>
+    <file>emblem-secure-messaging.png</file>
+  </qresource>
+</RCC>
